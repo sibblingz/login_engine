@@ -1,0 +1,10 @@
+<SmartFoxClient>
+    <!--><ip>213.92.118.83</ip>
+    <port>9339</port>
+    <zone>openspace2</zone>-->
+	<ip>localhost</ip>
+    <port>9339</port>
+    <zone>openspace</zone>
+    <debug>true</debug>
+    <smartConnect>false</smartConnect>
+</SmartFoxClient>
